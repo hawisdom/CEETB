@@ -11,9 +11,7 @@ If you find our work interesting, you can cite the paper as
 @article{Wan2022Construction,
          title={Construction of a {Chinese} Corpus for Multi-Type Economic Event Relation},
          author={Wan, Qizhi and Wan, Changxuan and Xiao, Keli and Liu, Dexi and Liu, Qing and Deng, Jiangling and Luo, Wenkang and Hu, Rong},
-         journal={ACM Transactions on Asian and Low-Resource Language Information Processing},
-         volume={1},
-         number={1},
+         journal={ACM Transactions on Asian and Low-Resource Language Information Processing}
          pages={1--20},
          year={2022}
 }
